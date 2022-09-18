@@ -20,7 +20,7 @@ import java.awt.Desktop;
 public class App {
 	
 	private static final String OUT_PATH = "output/page.html";
-	private static final String TEMPLATE_PATH = "src/templates/page-template.html";
+	private static final String TEMPLATE_PATH = "templates/page-template.html";
 	private static final String DATA_PATH = "data/objects.json";
 	
 	private static Gson gson;
