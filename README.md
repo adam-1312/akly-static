@@ -9,3 +9,6 @@ Javadocs of v0.1 is hosted on Github Pages (linked above).
 First functional release. App works by running the below command in your terminal with your current directory being the unzipped 'akly-v0.1' folder.
 
 `java -jar akly.jar`
+
+## External libraries used
+- [Gson](https://github.com/google/gson): for (de)serializing meal instances in app.
